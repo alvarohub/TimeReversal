@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<group>
+	<Freq__Update>78</Freq__Update>
+	<Gravity>0</Gravity>
+	<Repulsion>1</Repulsion>
+	<Vibration>0</Vibration>
+	<Frequency_Vibration>50</Frequency_Vibration>
+	<Amplitude>1</Amplitude>
+	<Scatter_angle>40</Scatter_angle>
+	<Damping>0</Damping>
+	<Parabolic_Jump>0</Parabolic_Jump>
+	<Amplitude_Repulsion>24.48</Amplitude_Repulsion>
+	<Amplitude_Vibration>0</Amplitude_Vibration>
+	<Force_Centrale>0</Force_Centrale>
+	<Amplitude_Force_Centrale>0</Amplitude_Force_Centrale>
+	<Black_Hole>0</Black_Hole>
+	<Radius_Black_Hole>5</Radius_Black_Hole>
+	<Particle_Rebirth>0</Particle_Rebirth>
+	<Run_Stop>1</Run_Stop>
+	<Sign_mass_toggle>0</Sign_mass_toggle>
+	<Mass_Particle>0.432</Mass_Particle>
+	<Color_Tangent_Speed>0</Color_Tangent_Speed>
+	<Size_particle>16.8</Size_particle>
+	<Charge>1</Charge>
+	<Resize_from_Speed>1</Resize_from_Speed>
+	<Side_Oscilaltion>0</Side_Oscilaltion>
+	<Freq__Oscillation__Hz_>0.52</Freq__Oscillation__Hz_>
+	<Amp__Oscillation__Hz_>28.32</Amp__Oscillation__Hz_>
+	<Impulse__horizontal__on_particle>0</Impulse__horizontal__on_particle>
+	<Logging_Phase_Space_Data>0</Logging_Phase_Space_Data>
+	<Amp__Oscillation>20</Amp__Oscillation>
+	<Start_Stop_LOG>0</Start_Stop_LOG>
+	<Draw_particles>1</Draw_particles>
+	<Draw_displacements>0</Draw_displacements>
+</group>
